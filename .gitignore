@@ -1,0 +1,24 @@
+# STM32CubeIDE build artifacts
+Debug/
+Release/
+
+# Object files
+*.o
+*.d
+*.su
+
+# Compiled output
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# STM32CubeIDE / Eclipse generated
+.settings/
+
+# IDE metadata (workspace-local, not needed in repo)
+.cproject_bak
+
+# macOS
+.DS_Store
